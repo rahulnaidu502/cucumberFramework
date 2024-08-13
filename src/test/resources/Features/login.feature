@@ -25,5 +25,4 @@ Examples:
 |ad1     | Pwd1      |
 |ad2     | Pwd2      | 
 |ad3     | Pwd3      |
-|ad4     | Pwd4      |
 

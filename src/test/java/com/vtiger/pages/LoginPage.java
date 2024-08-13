@@ -16,7 +16,7 @@ public class LoginPage extends PageActions {
 	{
 		super(driver, logger);
 		PageFactory.initElements(driver, this);
-		System.out.println("Hey I am Rahul");
+
 	}
 	
     //	private String uid = "user_name"; // way1 - so less code writting directing using the code low maintaince
