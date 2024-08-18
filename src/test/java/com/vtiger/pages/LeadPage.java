@@ -15,6 +15,7 @@ public class LeadPage extends PageActions {
 	{
 		super(driver, logger);
 		PageFactory.initElements(driver, this);
+		System.out.println("learning git");
 	}
 	
 	
