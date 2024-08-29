@@ -15,6 +15,7 @@ public class HomePage extends PageActions {
 		super(driver, logger);
 		PageFactory.initElements(driver, this);
 	}
+
 	
 	
 	@FindBy(linkText="Logout")
