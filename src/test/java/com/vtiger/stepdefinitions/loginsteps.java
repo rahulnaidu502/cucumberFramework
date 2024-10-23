@@ -76,7 +76,8 @@ public class loginsteps extends basesteps{
 	
 	@When("user enter the invalid userid as {string} and password is {string}")
 	public void user_enter_the_invalid_userid_as_and_password_is(String uid, String pwd) {
-		lp.login(uid, pwd);	
+		lp.login(uid, pwd);
 	}
+
 
 }
